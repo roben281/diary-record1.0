@@ -39,7 +39,7 @@ class LoginScreen extends StatelessWidget {
               children: [
                 const Icon(Icons.calendar_month_rounded, size: 70, color: Colors.redAccent),
                 const SizedBox(height: 10),
-                const Text('Diary Record', style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold, color: Colors.black80)),
+                const Text('Diary Record', style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold, color: Colors.black87)),
                 const Text('PLAN • TRACK • GROW', style: TextStyle(fontSize: 12, color: Colors.grey, letterSpacing: 2)),
                 const SizedBox(height: 30),
                 TextField(
